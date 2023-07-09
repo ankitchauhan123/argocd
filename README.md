@@ -1,1 +1,1 @@
-#Blue Green Deployment : Argo CD
+# Blue Green Deployment : Argo CD
